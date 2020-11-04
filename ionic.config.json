@@ -1,0 +1,8 @@
+{
+  "name": "Red World",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "40acef35"
+}
